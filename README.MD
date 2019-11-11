@@ -1,0 +1,1 @@
+Exemplo de interação com IPFS
